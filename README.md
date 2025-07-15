@@ -76,8 +76,3 @@ jupyter notebook portfolio2.ipynb
 
 4. Run all cells to simulate and visualize the tracking.
 
----
-
-## 📬 Contact
-
-For questions or feedback, feel free to connect with me on [LinkedIn](#) or check out the code on [GitHub](#).
